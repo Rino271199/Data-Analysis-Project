@@ -67,13 +67,23 @@ Skills Demonstrated
 ---
 
 Repository Structure
-```
-IPL-Data-Analytics/
-│── IPL_DATA_Dashboard.pbix
-│── Dataset/
-│── Screenshots/
-│── README.md
-```
+
+
+IPL-Data-Analytics-Dashboard/
+│
+├── README.md
+│
+├── 📂 PowerBi/
+│   ├── IPL_DATA_Dashboard.pbix
+│   └── IPL_DATA_Dashboard.pdf
+│
+├── 📂 Measures and Modelling/
+│   ├── Dax and measure_IPL.xlsx
+│   └── Modelling.png
+│
+└── 📂 Documentation/
+    └── IPL_Dashboard_Creation_Steps.txt
+
 
 ---
 

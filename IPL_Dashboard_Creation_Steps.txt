@@ -1,0 +1,28 @@
+IPL Dashboard Creation Steps
+
+1. Collect IPL datasets (matches, ball-by-ball, teams, players).
+2. Load data into Power BI Desktop.
+3. Clean data using Power Query:
+   - Remove nulls
+   - Correct data types
+   - Rename columns
+4. Create relationships between tables.
+5. Build a star schema where possible.
+6. Create a Calendar table.
+7. Write DAX measures for:
+   - Total Runs
+   - Wickets
+   - Fours
+   - Sixes
+   - Strike Rate
+   - Economy
+   - Orange Cap
+   - Purple Cap
+8. Design report pages.
+9. Add slicers for Season, Team, Player.
+10. Add KPI cards, charts, tables, and images.
+11. Format colors, themes, tooltips, and interactions.
+12. Validate calculations.
+13. Optimize performance.
+14. Save the PBIX file.
+15. Upload PBIX, README, screenshots, and datasets to GitHub.
